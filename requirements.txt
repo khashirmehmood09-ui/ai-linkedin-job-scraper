@@ -1,0 +1,8 @@
+gradio
+requests
+beautifulsoup4
+pandas
+flair
+torch
+lxml
+urllib3

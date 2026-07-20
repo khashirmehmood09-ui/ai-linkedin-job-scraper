@@ -12,6 +12,7 @@ from flair.data import Sentence
 import threading
 import os 
 import random
+import socket
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -756,9 +757,32 @@ with gr.Blocks(
 
 import os
 
+
+def get_available_port(preferred_port=None):
+    raw_port = preferred_port or os.environ.get("GRADIO_SERVER_PORT") or os.environ.get("PORT") or "0"
+
+    try:
+        requested_port = int(raw_port)
+    except (TypeError, ValueError):
+        requested_port = 0
+
+    if requested_port > 0:
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
+            try:
+                sock.bind(("0.0.0.0", requested_port))
+                return requested_port
+            except OSError:
+                pass
+
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
+        sock.bind(("0.0.0.0", 0))
+        return sock.getsockname()[1]
+
+
 if __name__ == "__main__":
 
-    port = int(os.environ.get("PORT", 7860))
+    port = get_available_port()
+    print(f"Launching app on port {port}")
 
     app.launch(
         server_name="0.0.0.0",

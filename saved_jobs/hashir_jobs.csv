@@ -1,0 +1,909 @@
+Position,Date,Work type,Level,Title,Company,Location,Link,Description,Skills
+Data Analyst,2026-07-20,On_site,Associate,Data Engineer,Sundayy,"New Brunswick, Canada",[https://ca.linkedin.com/jobs/view/data-engineer-at-sundayy-4442527186](https://ca.linkedin.com/jobs/view/data-engineer-at-sundayy-4442527186),"About The Company
+Xplore Inc. is Canada's leading provider of fibre, 5G, and satellite broadband services dedicated to enhancing rural living. Committed to delivering an exceptional broadband experience, Xplore is building a state-of-the-art fibre optic and 5G wireless network to enable innovative connectivity solutions for rural communities across Canada. The company's mission is to bridge the digital divide by providing reliable, high-speed internet access today and for future generations, fostering economic growth, education, and social inclusion in underserved areas.
+About The Role
+As a Data Engineer at Xplore Inc., you will play a pivotal role in supporting the migration and ongoing maintenance of the company's enterprise Business Support Systems (BSS). Your primary responsibilities will include automating data ingestion processes, transforming and validating data, and documenting system workflows and processes. This position offers an excellent opportunity for professionals with a few years of engineering experience to deepen their technical expertise and take ownership of platform development. You will collaborate with cross-functional teams to ensure data quality, security, and accessibility, enabling the delivery of BI and AI-ready datasets that support strategic decision-making and operational excellence.
+Qualifications
+3–5 years of experience in data engineering or related roles
+Strong proficiency in SQL and Python programming
+Experience with modern data platforms such as Databricks, Azure, or Snowflake
+Familiarity with data ingestion from GraphQL APIs, Salesforce, BSS, or ERP systems
+Understanding of data governance, quality, and observability practices
+Exposure to CI/CD pipelines and infrastructure automation tools
+Bachelor’s degree in a quantitative discipline or equivalent training/experience
+Excellent problem-solving and communication skills
+Responsibilities
+Develop and maintain robust data ingestion pipelines for structured and unstructured data sources
+Implement data transformations and modeling within medallion lakehouse frameworks
+Apply data quality checks and monitor pipeline health to ensure data integrity
+Contribute to metadata management, lineage tracking, and cataloging efforts
+Support data quality and observability initiatives to maintain high standards of data reliability
+Implement security and privacy controls, including role-based access and data encryption
+Collaborate with stakeholders to deliver datasets optimized for BI and AI applications
+Participate in code reviews, adhere to engineering best practices including CI/CD, Infrastructure as Code (IaC), and testing protocols
+Benefits
+Competitive salary and comprehensive benefits package
+Opportunities for professional growth and development
+Work in a collaborative and innovative environment
+Participation in cutting-edge projects in broadband technology
+Flexible work arrangements and supportive company culture
+Equal Opportunity
+Xplore Inc. is an equal opportunity employer committed to fostering an inclusive environment. We welcome applications from all qualified candidates regardless of race, gender, age, disability, religion, or background. We are dedicated to providing accommodations during the recruitment process to ensure accessibility for all candidates. If you require any accommodations, please inform your recruiter during the application process.
+        
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","SQL, Python, Azure, Salesforce, less"
+Data Analyst,2026-07-20,On_site,Associate,Data Scientist,Sundayy,"Ontario, Canada",[https://ca.linkedin.com/jobs/view/data-scientist-at-sundayy-4442520539](https://ca.linkedin.com/jobs/view/data-scientist-at-sundayy-4442520539),"About The Company
+Stripe is a leading financial infrastructure platform that empowers businesses worldwide. Serving millions of companies ranging from global enterprises to innovative startups, Stripe provides the tools necessary for accepting payments, expanding revenue streams, and unlocking new business opportunities. Our mission is to increase the GDP of the internet by creating a more inclusive and accessible digital economy. With a focus on innovation and impact, Stripe offers an exceptional environment for professionals to contribute to transformative projects that shape the future of commerce and finance. Join us to be part of a team dedicated to building a more connected and economically vibrant world.
+About The Role
+We are seeking talented Data Scientists to join our dynamic Data Science team at Stripe. In this role, you will collaborate closely with cross-functional teams—including Product, Finance, Payments, Security, Risk, Growth, and Go-to-Market—to leverage data insights for strategic decision-making. Your primary responsibilities will involve analyzing complex datasets, building machine learning and statistical models, and running experiments to optimize our systems and processes. You will play a vital role in understanding user behavior, preventing fraud, enhancing product features, forecasting key business outcomes, managing liquidity, and refining marketing and sales strategies. This position offers a unique opportunity to influence multiple facets of our business by transforming data into actionable insights that drive growth and operational excellence.
+Qualifications
+PhD + 3 years, MS/MA + 6 years, or BS/BA + 8 years of experience in data science or quantitative modeling
+Proficiency in SQL and a programming language such as Python or R
+Strong expertise in machine learning, statistics, optimization, product analytics, causal inference, and experimentation
+Experience working with cross-functional teams to deliver impactful results
+Excellent communication skills with the ability to present complex findings clearly
+Proven ability to manage multiple projects with high attention to detail
+Solid business acumen with experience translating analysis into actionable recommendations
+Innovative mindset with a willingness to challenge assumptions and explore new approaches
+Responsibilities
+Partner with various teams to understand their data needs and develop analytical solutions
+Design and implement machine learning models and statistical analyses to solve complex problems
+Run A/B tests and causal inference studies to evaluate product features and business initiatives
+Build scalable data pipelines and tools to support ongoing data analysis and modeling efforts
+Communicate insights and recommendations to stakeholders to inform strategic decisions
+Monitor and optimize model performance in production environments
+Collaborate with engineering teams to deploy models and integrate data solutions into products
+Continuously explore new data sources, techniques, and methodologies to enhance analytical capabilities
+Benefits
+Competitive salary and performance-based bonuses
+Comprehensive health, dental, and vision insurance plans
+Generous paid time off and holidays
+Opportunities for professional development and continuous learning
+Flexible work arrangements and remote work options
+Inclusive and collaborative work environment
+Access to cutting-edge tools and technologies
+Equal Opportunity
+Stripe is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based on race, religion, gender, sexual orientation, age, disability, or any other protected status. We believe that a diverse team fosters innovation and drives our mission forward, and we welcome applicants from all backgrounds to join us in shaping the future of digital commerce.
+        
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","Finance, Payments, Security, Risk, SQL"
+Business,2026-07-20,On_site,Associate,Staff Business Analyst - I,Pakistan Single Window (PSW),"Karāchi, Sindh, Pakistan",[https://pk.linkedin.com/jobs/view/staff-business-analyst-i-at-pakistan-single-window-psw-4442517594](https://pk.linkedin.com/jobs/view/staff-business-analyst-i-at-pakistan-single-window-psw-4442517594),"Support the strategic planning process by assisting senior leadership in defining organizational goals, objectives, and key performance indicators (KPIs)
+Conduct business analysis to identify trends, opportunities, and areas for improvement in market performance and internal operations
+Assist in developing business cases for key initiatives, outlining benefits, costs, and resource needs under guidance from senior team members
+Participate in cross-functional projects and initiatives, coordinating between business stakeholders, IT teams, and other departments to ensure effective communication
+Provide guidance to junior analysts on assigned tasks and contribute to a collaborative and supportive team environment
+Facilitate meetings and discussions with stakeholders to gather requirements, document feedback, and ensure understanding of project objectives
+Build and maintain effective working relationships with stakeholders across the organization to support alignment on business needs
+Analyze business processes, systems, and data to highlight areas for improvement or efficiency gains, recommending enhancements where appropriate
+Contribute to the design and implementation of solutions that improve business performance, leveraging established tools and practices
+Track project progress and highlight potential risks or delays, ensuring timely follow-up and reporting to relevant managers
+Promote continuous improvement through sharing best practices and supporting process optimization efforts
+Keep informed of relevant industry trends and changes, sharing insights that could affect team projects or priorities
+Apply established business analysis methodologies, tools, and techniques effectively, and seek guidance where required
+Collaborate with external stakeholders and partners when necessary to gather input and benchmark against best practices
+Requirements
+Bachelor's degree in Computer Science, Information Technology or a related field
+Minimum of 6 years of experience in business analysis or a related field
+Experience in software development lifecycle (SDLC) methodologies and techniques
+Experience in working with cross-functional teams and stakeholders to elicit and document requirements
+Good knowledge of business analysis methodologies, tools, and techniques, with a focus on strategic planning, process optimization, and change management
+Good leadership, communication, and interpersonal skills, with the ability to influence and inspire others at all levels of the organization
+Advanced analytical and problem-solving abilities, with a keen eye for detail and a results-driven mindset
+Experience leading cross-functional teams and managing complex projects from inception to completion
+Proven ability to navigate ambiguity, adapt to changing priorities, and drive consensus in a fast-paced, dynamic environment
+Familiarity with industry-specific regulations, compliance requirements, and governance frameworks
+Proficiency in business intelligence tools, data analysis techniques, and visualization methods
+Certification in business analysis (e.g., CBAP, PMI-PBA) or related fields preferred
+Benefits
+Competitive salary
+Fuel Card
+Health benefits
+Professional development opportunities
+Inclusive work culture & much more
+
+
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","business analysis methodologies, Computer Science, business analysis, SDLC, process optimization"
+Data Analyst,2026-07-20,On_site,Associate,Automation Developer (AI),Acosta,"Toronto, Ontario, Canada",[https://ca.linkedin.com/jobs/view/automation-developer-ai-at-acosta-4404123737](https://ca.linkedin.com/jobs/view/automation-developer-ai-at-acosta-4404123737),"Description
+What You’ll Do:
+Design, build, and maintain scalable automation solutions to support analytics and reporting platforms
+Partner with internal and client-facing stakeholders to identify, streamline, and eliminate manual or inefficient processes
+Develop and support backend and frontend automations using modern programming languages, frameworks, and APIs
+Create and optimize data assets including tables, scripts, datasets, dashboards, and reporting tools to meet evolving business needs
+Leverage analytical and automation platforms such as Power BI, Alteryx, KNIME, and similar tools to deliver insights and enable self-service analytics
+Optimize and maintain SQL databases across cloud and on ‑ prem environments , focusing on performance, reliability, and scalability
+Measure, track, and communicate automation value by quantifying ROI, efficiency gains, and risk reduction
+Support project‑based automation initiatives , contribute to solution design , and mentor junior team members on tools, best practices, and standards
+Responsibilities
+What You Bring:
+Bachelor’s degree (BA or BS)
+5+ years of advanced programming experience (Python, C#, Java, .NET, or similar)
+Strong understanding of software architecture and automation design
+Advanced SQL and database optimization experience
+Proven problem-solving, analytical , and project management skills
+Excellent communication skills and ability to work independently .
+Qualifications
+Why Join Us:
+Work on high-impact automation projects that support analytics and business intelligence
+Collaborate with cross-functional teams across technology and client-facing groups
+Opportunity to influence scalable solutions and mentor others
+\#DiscoverYourPath
+About Us
+Acosta is a part of Acosta Group – a collective of the industry’s most trusted retail, marketing and foodservice agencies reimagining the way people connect with brands at every point in their shopping journey.
+Specializing in retail sales services, digital strategy, and business intelligence, Acosta empowers brands to thrive in the world of omnichannel shopping. Our sales and digital teams build lasting relationships, ensuring our client brands get the space they deserve in stores and outperform the competition online, while our merch reps make brands shine in retail locations across the world.
+But it’s not just about what we do – it’s about who we are. With a team of over 20,000 associates, we’re a community of forward-thinking, value-driven professionals committed to an unmatched level of trust and transparency in the industry. And, we understand the importance of work-life balance, which is why many of our field roles provide our associates with flexible scheduling options. Join us and be a part of a team that values growth and making a real impact for our clients, retail partners and their customers.
+Acosta Group is an equal opportunity employer and will ensure that applicants with disabilities are provided with reasonable accommodations. If reasonable accommodation is needed, please contact 
+AskHR@acosta.com
+ . Be sure to include ""Applicant Accommodation"" in the subject of your email to expedite the request.
+Acosta Group believes in good faith that the minimum and maximum annual salary or hourly compensation range for this opportunity is accurate and reasonable at the time of posting.
+The Acosta Group utilizes E-Verify for validating the ability to work in the United States for all job candidates. If you want more information on what this entails and your rights as a job applicant, please use the link provided to access information on our use of E-Verify and your right to work. Employer Resources (e-verify.gov)
+By applying, you agree to our Privacy Policy and Terms and Conditions of Use.
+\#DiscoverYourPath
+Acosta, and its subsidiaries, is an Equal Opportunity Employer
+Job Category:
+ Administration
+Position Type:
+ Full time
+Business Unit:
+ Corporate
+Salary Range:
+ $84100.00 - $105000.00
+Company:
+ Acosta Employee Holdco LLC
+Req ID:
+ 26290
+Employer Description:
+ US\
+ACOSTA\
+EMPLOYER DESC
+        
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","Design, SQL, Python, C#, Java"
+Business,2026-07-20,On_site,Associate,Upwork Specialist,Inventive Research Group,"Lahore, Punjab, Pakistan",[https://pk.linkedin.com/jobs/view/upwork-specialist-at-inventive-research-group-4439672465](https://pk.linkedin.com/jobs/view/upwork-specialist-at-inventive-research-group-4439672465),"Job Description:
+Location: Bahria Town, Lahore (On-site)
+Timings: 3:00 PM – 12:00 AM (Monday to Friday)
+Job Type: Full-time
+Pay: 60,000.00 (PKR)-100,000.00 (PKR) per month
+We are looking for a highly motivated and experienced Upwork Specialist with 2–3 years of hands-on experience managing Upwork accounts and securing projects for software development, AI solutions, SaaS, and technology services. The ideal candidate should have a proven track record of winning projects, communicating with international clients, and generating consistent business opportunities through Upwork.
+Key Responsibilities
+Identify and apply for relevant projects on Upwork using tailored, high-converting proposals
+Generate qualified leads and secure projects in AI, software development, SaaS, web, mobile, and technology services
+Communicate with international clients to understand their business requirements and recommend suitable solutions
+Manage the complete bidding process, from proposal submission to contract acquisition
+Negotiate project scope, timelines, and pricing with prospective clients
+Maintain and optimize the company's Upwork profile to improve visibility and conversion rates
+Coordinate with technical and project teams to ensure accurate project estimation and successful client onboarding
+Build long-term relationships with clients to encourage repeat business and referrals
+Achieve monthly bidding, project acquisition, and revenue targets
+Requirements
+2–3 years of proven experience as an Upwork Bidder, Upwork Specialist, or Business Development Executive
+Demonstrated success in winning projects on Upwork, preferably in software development, AI solutions, SaaS, or IT services
+Strong understanding of Upwork algorithms, proposal writing, bidding strategies, and profile optimization
+Excellent written and verbal English communication skills
+Strong negotiation and client relationship management abilities
+Self-motivated, target-driven, and capable of working in a fast-paced environment
+Experience using CRM tools and project management platforms will be an added advantage
+What We Offer
+Competitive salary with attractive performance-based incentives
+Clear opportunities for career growth and professional development
+A collaborative, innovative, and growth-oriented work environment
+Exposure to international clients and cutting-edge AI and software development projects
+
+
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","SaaS, software development, web, Business Development, less"
+Data Analyst,2026-07-20,On_site,Associate,"Manager, Data Analytics / Data Governance - Governance, Risk & Compliance Services (GRCS)",KPMG Canada,"Ottawa, Ontario, Canada",[https://ca.linkedin.com/jobs/view/manager-data-analytics-data-governance-governance-risk-compliance-services-grcs-at-kpmg-canada-4415592928](https://ca.linkedin.com/jobs/view/manager-data-analytics-data-governance-governance-risk-compliance-services-grcs-at-kpmg-canada-4415592928),"Overview
+At KPMG in Canada, our people bring their unique perspectives to Canada’s most important challenges. Here, you can build momentum that reaches beyond our business, develop skills for the future, and take ownership of your career with support at every stage. Join a firm where your career can make a difference.
+As a 
+Manager 
+in our
+ Ottawa office
+, you’ll lead and work as part of a team of problem solvers with extensive consulting and industry experience, helping our clients solve complex business issues from strategy to implementation.
+What You Will Do
+Support and perform in-depth data analysis to identify areas of risk, opportunities and recommend solutions for our clients
+Work closely with clients, regulators, and other stakeholders to understand key business issues
+Work in multi-disciplinary and cross-functional teams to translate business objectives into artificial intelligence approaches and objectives; strong aptitude for quickly learning business operational, process, delivery, and revenue models
+Utilize a hypothesis-driven, problem-solving approach to design, construct, and rapidly test/iterate exploratory models that will reveal insight and opportunities for the client; proactively broaden and deepen client relationships by working with varying levels of client team members
+Develop and review data governance and data management policies, data quality rules and data lineage. Configure data governance policies into data management tools utilized by our clients
+Develop and utilize technical and industry knowledge to resolve complex client challenges and consult on leading practice solutions
+Assist with drafting professional reports and other client deliverables, such as interactive dashboards, presentation materials and demos, findings and recommendations, summaries of analytical results and insights, etc.
+Support business development by delivering thought leadership directly to clients, building assets and accelerators, and assisting in the creation of successful proposals
+Utilize your understanding of modern AI tools, AI monitoring solutions, data governance and management to solve challenging business problems
+Establish credibility and develop relationships with current and prospective clients
+Provide support/assistance for identification of business opportunities, development of proposals, and prospective client presentations
+Support client workshops to analyze current state operating models, architecture and analytics functions and co-develop and aspirational future state of data and analytics
+Lead project workstreams and activities, providing coaching to other Consultants in areas of expertise
+What You Bring To The Role
+5+ years of experience in Data Analytics or Data Governance roles, and 2+ years of leading teams/projects, ideally within a services/consulting organization
+Certificate, diploma or degree in a relevant field from a recognized Canadian post-secondary institution, or an acceptable combination of education, training and experience within fields related to Data Analytics (including Artificial Intelligence, Data Science, Computer Science, Computer Engineering, etc.) or related to the Canadian Public Sector (Political Science, Public Policy and Administration, Digital Government, etc.)
+Experience leading people / teams in a fast-paced environment
+Independent ability to review data quality and data definitions and perform data cleansing and data management tasks
+Experience utilizing generative AI tools for personal and work productivity, such as ChatGPT, Microsoft Copilot, Google Gemini, Perplexity, etc.
+Experience developing presentations and client-facing reports to support project activities and synthesize findings from work performed into a cohesive final deliverable. Specific experience related to delivering presentations within a Public Sector industry context is preferred
+Experience leading the facilitation of client-facing workshop sessions supporting current state assessments, definition of a target future state and/or identification of analytics use cases. Specific experience related to facilitating sessions within a Public Sector industry context is preferred
+Experience reviewing data governance and management documentation, including but not limited to policies, procedures, roles, responsibilities and platforms
+Experience with data governance and data management tools and platforms, including but not limited to Azure Purview, Databricks Unity Catalog, Snowflake, Informatica, Collibra, Alation or IBM Infosphere
+Working knowledge in the various data management frameworks & regulations such as DAMA-DMBOK, EDM-DCAM, BCBS-239 or ISO 8000-1
+Experience in reviewing database schemas and relationships, data dictionaries and definitions, and assessing these and their underlying datasets for data quality and relevance to business objectives
+Experience or knowledge in one major cloud service MS Azure (preferred), AWS, and GCP, including familiarity with cloud platform data architecture models and relevant tools for scalability, repeatability and performance to support overall solution and full-scope architecture design and build for our clients
+Experience manipulating, processing and extracting values from large data sets using data transformation tools, including but not limited to Python, Power Query, Alteryx or Knime
+Experience with data visualization tools including but not limited to Tableau, Power BI, Databricks or Qlik
+Proven experience collaborating within multi-disciplinary teams to address challenges related to unstructured data processing across various industries
+Ability to utilize data and analytics principles to address business challenges and to explain business value of data and analytics concepts, including data governance and management fundamentals
+Superior communication skills, both written and verbal, with the ability to articulate technical concepts and their implications to stakeholders at all levels
+Effectively use generative AI tools to streamline tasks, automate repetitive processes, accelerate data analysis, and reveal deeper insights that would otherwise require significant manual effort
+Fluent or working proficiency language skills in both French and English
+KPMG Ontario Region Pay Range Information
+The expected base salary range for this position is $84,500 to $125,500 and may be eligible for bonus awards. The determination of an applicant’s base salary within this range is based on the individual’s location, skills & competencies, and unique qualifications. In addition, KPMG offers a comprehensive and competitive Total Rewards program.
+Providing you with the support you need to be at your best
+Our Values, The KPMG Way
+Integrity
+, we do what is right | 
+Excellence
+, we never stop learning and improving | 
+Courage
+, we think and act boldly | 
+Together
+, we respect each other and draw strength from our differences | 
+For Better
+, we do what matters
+KPMG in Canada is a proud equal opportunities employer and we are committed to creating a respectful, inclusive and barrier-free workplace that allows all of our people to reach their full potential. A diverse workforce is key to our success and we believe in bringing your whole self to work. We welcome all qualified candidates to apply and hope you will choose KPMG in Canada as your employer of choice.
+Adjustments and accommodations throughout the recruitment process
+At KPMG, we are committed to fostering an inclusive recruitment process where all candidates can be themselves and excel. We aim to provide a positive experience and are prepared to offer adjustments or accommodations to help you perform at your best. Adjustments (informal requests), such as extra preparation time or the option for micro breaks during interviews, and accommodations (formal requests), such as accessible communication supports or technology aids, are tailored to individual needs and role requirements. You will have an opportunity to request an adjustment or accommodation at any point throughout the recruitment process. If you require support, please contact KPMG’s Employee Relations Service team by calling 1-888-466-4778.
+AI Usage
+We embrace the use of artificial intelligence (AI) to enhance the candidate experience and streamline our recruitment processes. AI tools may help with organizing applications or surfacing relevant qualifications. However, no hiring decisions are made using AI. Every hiring decision is made by our hiring managers and recruitment professionals, who are equipped with training that empowers them to use these tools responsibly. AI technologies used in our recruitment process undergo detailed risk assessments, including security and privacy requirements, that align with KPMG’s Trusted AI framework.
+We believe technology should empower human judgment, not replace it. It’s one of the many ways we’re delivering on our vision of being a technology-first, people-driven firm.
+        
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","process, data, Artificial Intelligence, Data Science, Computer Science"
+Business,2026-07-20,On_site,Associate,Strategy & Projects Lead,Above Zero,"Islamabad, Islāmābād, Pakistan",[https://pk.linkedin.com/jobs/view/strategy-projects-lead-at-above-zero-4439671964](https://pk.linkedin.com/jobs/view/strategy-projects-lead-at-above-zero-4439671964),"How to apply
+Send your CV and a short 90 second video note - just tell us ‘why this role’ in your own voice - to sup@abovezero.pk
+About Above Zero
+Above Zero is Pakistan's first planned four-season mountain destination, 400 kanals at Thandiani, on a 100-year concession with the Galiyat Development Authority. Nothing like it exists in the country yet. We are small, deliberate, and moving quickly.
+The role
+This role works next to the CEO while the project gets funded and built, and gives you a full view of how a project this size comes together: the money, the government, the partners, and the plan.
+The job is to help shape the case for the project and then carry it through. You will build the investor story and the numbers behind it, work out how it should be put to different kinds of investors, and turn what gets decided into what actually happens. As you grow into it, you will own parts of the project outright.
+Alongside the case for the project, you will help carry its story outward. The investor story and the public story are the same story told to different rooms.
+What you'll do
+● Build the investor story and the financial narrative behind it, and shape how it lands with different kinds of investors
+● Prepare investor-facing materials; decks, memos, briefing documents, follow-up correspondence
+● Run the market and competitor research that keeps our positioning sharp
+● Own investor and audience communications that keep the narrative alive between the big moments
+● Find and pursue collaborations worth having
+● Coordinate on external content and campaigns as they come up
+● Turn what gets decided into what actually happens; track deliverables, chase what needs chasing
+Who you are
+● 2 - 4 years of work behind you, ideally with exposure to finance, strategy, consulting, or a serious operating environment
+● You want to learn how large projects get financed from the inside, and plan to be able to run one yourself in a few years
+● Excellent written English. You can build a case, structure a deck, and write something a senior stakeholder will read without wincing
+● Sharp with numbers. Comfortable modelling, comfortable with the story a number tells
+● Proactive by default: you find work, you don't wait to be handed it
+● High emotional intelligence. You'll be liaising with senior figures across government, business, and creative worlds
+● Comfortable with ambiguity, shifting priorities, and tight turnarounds
+● A genuine interest in hospitality, conservation, design, or built environments is a plus - not a requirement
+What this role offers
+● A front-row seat to the building of one of Pakistan's most ambitious eco-tourism and conservation projects
+● Real responsibility early, because there is no layer to hide behind
+● Ownership of parts of the project as you grow into it
+● Direct mentorship from the CEO
+
+
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","strategy, conservation, design, less"
+Data Analyst,2026-07-20,On_site,Associate,"Gestionnaire, Analytique des données",Fasken,"Montreal, Quebec, Canada",[https://ca.linkedin.com/jobs/view/gestionnaire-analytique-des-donn%C3%A9es-at-fasken-4405377151](https://ca.linkedin.com/jobs/view/gestionnaire-analytique-des-donn%C3%A9es-at-fasken-4405377151),"Sommaire du poste
+Fasken est à la recherche d’un ou d’une gestionnaire, Analytique des données, qui agira à titre de leader principal(e) de l’analytique des données et de partenaire d’affaires au sein du service interne d’analytique et d’ingénierie des données. Ce rôle se situe à l’intersection de la stratégie d’affaires, de l’analytique et de la gouvernance des données.
+Tu interagiras de façon proactive avec les professionnels des affaires afin de découvrir des occasions à exploiter, de proposer des indicateurs clés de rendement significatifs, de fournir des observations et d’influencer la prise de décisions dans l’ensemble du cabinet. Une solide expertise technique, d’excellentes compétences en communication et la crédibilité requise pour intervenir auprès de la direction du cabinet tout en respectant des contraintes strictes de gouvernance et d’éthique sont nécessaires.
+Les Responsabilités Comprennent Ce Qui Suit
+Leadership auprès des partenaires et des professionnels des affaires
+ 
+Agir comme point de contact principal pour les professionnels des affaires en ce qui concerne les données, la production de rapports et les observations.
+Diriger des réunions et des conversations avec les partenaires d’affaires pour :
+Expliquer les conclusions des processus analytiques;
+Synthétiser des données en observations claires et exploitables;
+Recommander des indicateurs clés de rendement qui cadrent avec les objectifs du cabinet et des groupes de pratique.
+Identifier proactivement les occasions et communiquer les observations pertinentes aux parties prenantes.
+Établir des relations solides et de confiance au sein du cabinet et agir à titre de conseiller ou de conseillère stratégique.
+Analytique, production de rapports et remise d’observations
+ 
+Concevoir, élaborer et tenir à jour :
+Des tableaux de bord généraux et opérationnels
+Des rapports standards et ponctuels;
+Des solutions d’alertes et de surveillance du rendement.
+Préparer et présenter des rapports trimestriels et ponctuels à la haute direction et aux comités du cabinet.
+S’assurer que les solutions d’analytique sont bien documentées, évolutives et conformes aux normes du cabinet.
+Offrir du soutien et des conseils aux analystes sur les pratiques exemplaires en matière d’analytique et de présentation des données.
+Diriger des projets spéciaux.
+Offrir du soutien dans le cadre d’activités périodiques (fin d’exercice, budgets, etc.).
+Expertise technique et des données
+ 
+Démontrer une solide expérience pratique avec Power BI et Power BI Report Builder (une expérience avec Tableau est également acceptable).
+Utiliser des trames de données (data frames) SQL ou Python pour :
+Comprendre et maîtriser les schémas de données du cabinet;
+Valider l’exactitude des données;
+Soutenir des cas d’utilisation analytiques complexes;
+Comprendre et/ou modifier des blocs-notes de transformation.
+Opérer en toute confiance dans un environnement de type lac de données ou lakehouse, en naviguant dans de multiples domaines et sources de données.
+Tirer parti de Microsoft Copilot pour analyser des données, optimiser des recherches et des scripts et créer des agents de données personnalisés afin d’accélérer la remise d’observations et l’efficience opérationnelle.
+Travailler en étroite collaboration avec l’équipe d’ingénierie des données pour s’assurer que les solutions d’analytique sont fondées sur des données fiables et bien modélisées.
+Démontrer une aptitude avérée à travailler efficacement avec une grande variété de sources de données, y compris des données structurées, semi-structurées et non structurées.
+Démontrer une capacité à tirer parti des sources de données internes et externes pour fournir des observations de grande valeur qui sont fondées sur des données et appuient la prise de décisions au cabinet.
+Intégrité des données, gouvernance et éthique
+Accorder une grande importance à l’intégrité des données et veiller à ce que les observations soient exactes, défendables et correctement étayées par des données.
+Respecter scrupuleusement les exigences de gouvernance, de confidentialité et d’éthique (y compris les écrans déontologiques).
+Agir en tant qu’ambassadeur ou ambassadrice d’une utilisation responsable et conforme des données dans l’ensemble du cabinet.
+S’assurer que les rapports et les observations sont conformes aux normes du cabinet en matière d’exactitude, de clarté et de fiabilité.
+Superviser et diriger des initiatives de gouvernance des données en tirant parti d’outils de tiers et de ressources de données externes, le cas échéant, afin d’améliorer la qualité, la conformité et l’évolutivité des données.
+Leadership et projets spéciaux
+Diriger des projets spéciaux complexes et à haute visibilité dans l’ensemble du cabinet.
+Coordonner avec les équipes d’ingénierie des données, de gouvernance et de technologies au besoin.
+Savoir quand une autre expertise ou des capacités supplémentaires sont nécessaires et solliciter l’aide appropriée.
+Influencer sans autorité directe, en misant sur la collaboration et la crédibilité.
+Communication et collaboration
+Donner des présentations avec assurance à la direction du cabinet et aux parties prenantes de haut niveau.
+Communiquer des concepts analytiques complexes dans un langage clair et compréhensible pour les professionnels des affaires.
+Travailler efficacement avec des équipes réparties dans plusieurs bureaux et fuseaux horaires.
+Favoriser une culture de collaboration, de curiosité et d’amélioration continue.
+En quoi consiste la réussite
+Les professionnels des affaires considèrent l’analytique comme un atout stratégique, et non simplement une ressource de production de rapports.
+Les indicateurs clés de rendement et les observations appuient directement les objectifs du cabinet et des groupes de pratique.
+La direction fait confiance aux résultats de l’analytique grâce à une intégrité et à une gouvernance robustes des données.
+Le travail d’analytique est rapide, pertinent et uniforme dans la valeur qu’il offre.
+Plusieurs équipes collaborent efficacement dans un environnement principalement de télétravail.
+Connaissances et expérience exigées
+Baccalauréat en mathématiques, économie, finance, comptabilité, statistiques, ingénierie, informatique ou autre domaine de nature quantitative; titre de CPA; MBA; ou expérience de travail équivalente
+Au moins 5 à 7 ans d’expérience en analytique des données, informatique décisionnelle, ingénierie des données, services-conseils ou dans un domaine connexe
+Certifications professionnelles pertinentes, un atout (p. ex. Microsoft)
+Maîtrise de Power BI (ou de Tableau)
+Maîtrise approfondie de SQL et/ou Python (p. ex. trames de données Pandas)
+Expérience avec les lacs de données ou les plateformes de données à l’échelle de l’entreprise (Microsoft Azure, Microsoft Fabric, AWS, Snowflake, Google Cloud, etc.)
+Solide compréhension des principes d’intégrité, de validation et de gouvernance des données
+Excellentes compétences en matière de communication, à l’oral comme à l’écrit
+Bilinguisme, un atout
+Connaissance du secteur des services professionnels, un atout
+À propos de Fasken
+Situé à l’intersection de l’excellence et de l’expertise, Fasken est un cabinet d’avocats de premier plan comptant plus de 950 avocats et avocates à l’échelle mondiale. Nous nous engageons auprès de nos clients à façonner l’avenir qu’ils imaginent, précisément au moment où cela compte le plus. Pour plus de renseignements, visitez fasken.com.
+Chef de file du milieu juridique, nous avons été reconnus comme étant « le plus grand cabinet juridique au Québec en 2024 », « le meilleur cabinet d’avocats où travailler au Canada en 2023 et en 2024 » en plus d’être l’un des « meilleurs employeurs pour la diversité en 2023 ».
+Équité, diversité et inclusion
+Nous croyons en un milieu de travail diversifié, composé de personnes ayant des expériences et des qualités uniques. Il est important que tous nos membres trouvent notre milieu de travail accueillant et bienveillant. Un milieu de travail inclusif crée un environnement équitable où les personnes sont respectées et valorisées. Ainsi, nous sommes heureux d'offrir à nos candidats et membres Fasken les mesures raisonnables nécessaires afin que chacun puisse se réaliser pleinement. N'hésite pas à nous faire part de tout aménagement que nous pourrions te proposer pour t’offrir la meilleure expérience possible.
+        
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","Leadership, budgets, SQL, Python, finance"
+Business,2026-07-20,On_site,Associate,LinkedIn Outreach & Business Development Expert,Tek Pinnacles,"Islamabad, Islāmābād, Pakistan",[https://pk.linkedin.com/jobs/view/linkedin-outreach-business-development-expert-at-tek-pinnacles-4442531592](https://pk.linkedin.com/jobs/view/linkedin-outreach-business-development-expert-at-tek-pinnacles-4442531592),"About Tek Pinnacles
+Tek Pinnacles turns every lead into a signed client automatically.
+We build AI-powered client intake, onboarding, and case management systems for law firms and legal service providers across 10+ countries. Our platform captures leads 24/7, qualifies them with AI in seconds, handles dynamic intake questionnaires, retainers and e-signatures, runs automated conflict checks, and hands signed matters straight into your case system — Clio, MyCase, Salesforce, HubSpot, or Office 365. No re-keying, no leads going cold at 9 pm, no PII scattered across inboxes.
+The results speak for themselves: 20,000+ claims processed, average lead-to-intake under 2 minutes, and conversion uplifts of +38% for firms running our platform.
+Behind the platform sits a full technology and engineering practice. We deliver end-to-end IT services worldwide — Microsoft 365 and Office security, mobile device management, cloud infrastructure, monitoring, CRM integrations, and marketing funnel builds — the same engineering muscle that powers our legal tech.
+The Role
+We're looking for an outreach specialist who can open doors in the US and UK markets. You'll own our LinkedIn and cold email pipelines end-to-end — from building prospect lists to booking discovery calls for our sales and leadership teams. This is a hybrid role based in Islamabad with work-from-home flexibility.
+What You'll Do
+Research and identify prospective clients in the US and UK; build accurate prospect lists by industry, company size, job title, and location
+Run targeted LinkedIn outreach campaigns using Sales Navigator
+Create and execute cold email sequences that generate qualified leads
+Write personalised outreach messages and follow-ups that get replies
+Qualify leads on need, budget, authority, and timeline; book meetings and discovery calls for the sales team
+Maintain all activity in the CRM; report on open rates, reply rates, connection rates, and booked meetings
+Collaborate with marketing and sales to sharpen messaging and campaign performance
+Meet or exceed monthly targets for outreach, qualified leads, and booked appointments
+What You'll Bring
+Proven experience as a BDR, SDR, Lead Generation Specialist, or similar
+Hands-on LinkedIn outreach experience, including Sales Navigator
+Strong cold email track record with US/UK prospects — bring your numbers (reply rates, meetings booked)
+Excellent written and verbal English; clear, persuasive, professional messaging
+Experience with CRM tools (HubSpot, Salesforce, Zoho, Pipedrive) and outreach tools (Lemlist, Apollo, Instantly, Mailshake, Reply.io)
+Familiarity with lead research tools (Apollo, ZoomInfo, Lusha, Hunter.io, RocketReach)
+Strong grasp of B2B sales processes, US/UK business culture, and buying behaviour
+Self-managed, organised, target-driven — and professional in the face of rejection
+Why Join Us
+Ground-floor role in a growing international IT company with direct access to leadership, real ownership of the pipeline you build, and a clear path to senior BD roles as we scale in the US and UK.
+
+
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","Salesforce, Microsoft 365 and Office security, mobile device management, cloud, CRM"
+Data Analyst,2026-07-20,On_site,Associate,Data Scientist – Predictive Modeling & Supply Chain Analytics,Lumenalta,Canada,[https://ca.linkedin.com/jobs/view/data-scientist-%E2%80%93-predictive-modeling-supply-chain-analytics-at-lumenalta-4442538025](https://ca.linkedin.com/jobs/view/data-scientist-%E2%80%93-predictive-modeling-supply-chain-analytics-at-lumenalta-4442538025),"At Lumenalta, we partner with forward-thinking organizations to build technology solutions that scale, delight users, and accelerate business growth. Our global teams bring curiosity, commitment, and technical excellence to every project. We value transparency, autonomy, and impact—empowering every team member to do their best work.
+We’re seeking an experienced 
+Data Scientist
+ with a strong applied statistics background and deep supply chain domain knowledge to join an enterprise manufacturing client.
+Actively Hiring
+We are hiring for a current opening on an active client project. This is a specific, presently open role. We review applications on a rolling basis and aim to move qualified candidates through our process promptly.
+What You’ll Work On
+Build demand forecasting models
+ using time-series methods appropriate to supply chain variability—applying CV-based segmentation to classify materials by demand pattern and selecting the right forecasting approach per segment (e.g., smooth, erratic, lumpy, intermittent).
+Perform demand variability analysis
+ across material master and movement data—quantifying forecast error, identifying root causes of variability, and producing inputs that planning teams can act on directly in SAP.
+Develop inventory pre-positioning and health/trend monitoring (HTMS) analytics
+, translating model outputs into actionable signals for supply chain planners—including safety stock recommendations, reorder point adjustments, and MRP parameter tuning.
+Work directly with SAP ECC planning data
+—extracting and interpreting MD07 exception messages, purchase requisitions vs. PO receipts, and MRP-generated signals to understand how planners currently work and where predictive models create the most value.
+Partner with cross-functional teams
+—supply chain planners, procurement, and operations—to translate domain knowledge into concrete model inputs, validate outputs against real planning decisions, and communicate findings in terms the business understands.
+Perform exploratory data analysis (EDA)
+ on SAP transactional data (MARC, MARD, EKKO/EKPO, purchase reqs) to uncover demand patterns, supply variability, and leading indicators that inform forecasting and inventory models.
+Build and maintain analytical workflows in Databricks
+ using PySpark, SQL, and Notebooks—ensuring reproducibility, version control, and handoff-readiness for engineering and downstream consumers.
+Establish modeling best practices
+ for validation, segmentation logic, and presentation of findings—ensuring models are interpretable and trusted by both technical teams and supply chain planners who act on the outputs.
+Requirements
+5+ years in a Data Scientist or analytical role, with hands-on experience building statistical models in supply chain, manufacturing, or industrial planning contexts.
+Strong foundation in applied statistics—time-series forecasting fundamentals (ARIMA, exponential smoothing, intermittent demand models), demand variability analysis, and CV-based material segmentation. Classical statistical rigor is valued over black-box ML here.
+Working understanding of supply chain planning concepts—MRP logic, purchase requisitions vs. PO receipts, safety stock, reorder points, and how planners make decisions—sufficient to translate planning requirements into model design.
+Hands-on experience with Databricks for analytical model development—PySpark and Spark SQL for data transformation and aggregation, and Notebooks for reproducible analysis and model iteration.
+Strong proficiency in Python (scikit-learn, statsmodels, pandas) for modeling and SQL for extracting and manipulating large SAP transactional datasets.
+Ability to present model outputs and analytical findings to both technical teams and non-technical supply chain stakeholders—translating statistical outputs into planning-relevant language.
+Strong written and verbal communication skills in English.
+Why Lumenalta is an amazing place to work at
+At Lumenalta, you can expect that you will:
+Be 100% dedicated to one project at a time so that you can innovate and grow.
+Be a part of a team of talented and friendly senior-level developers.
+Work on projects that allow you to use leading tech.
+Salary
+Salary range: CA$80,000 - CA$130,000 annually, with final compensation determined by your qualifications, expertise, experience, and the role's scope.
+Location:
+This is a fully remote position; however, candidates must be based in regions that align with the Pacific, Central, or Eastern U.S. time zones to ensure effective collaboration with client and team schedules. 
+Benefits
+In addition to competitive pay, we offer a variety of benefits to support your professional and personal growth, including:
+Flexible working hours in a remote environment.
+Health insurance (medical and dental) for T4 Employees.
+A professional development fund to enhance your skills and knowledge.
+15 days of paid time off annually.
+Access to soft-skill development courses to further your career.
+Position Details
+This is a full-time position requiring a minimum of 
+40 hours per week, Monday through Friday
+.
+Application Deadline
+Applications will be accepted until 
+July 26, 2026
+. Candidates can expect feedback by August 3, 2026.
+
+
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","Data, SAP, data analysis, MARD, SQL"
+Business,2026-07-20,On_site,Associate,Upwork Specialist,MULTIINSIGHT - Shopify CRO & Growth Agency,"Islamabad, Islāmābād, Pakistan",[https://pk.linkedin.com/jobs/view/upwork-specialist-at-multiinsight-shopify-cro-growth-agency-4439693330](https://pk.linkedin.com/jobs/view/upwork-specialist-at-multiinsight-shopify-cro-growth-agency-4439693330),"Designation:
+ Upwork Growth Manager
+Location:
+ Multiinsght, Business Square, Block C, Gulberg Greens Islamabad
+Working Schedule:
+ 4PM to 1AM (Monday to Friday)
+Job type: 
+Full time Onsite
+About the Job:
+We're hiring the brain, the engine, and the growth driver behind our entire Upwork sales channel.
+This role is for someone who understands Upwork better than Upwork itself — someone who knows the algorithm, knows how to scale profiles, builds predictable systems, leads a bidding team, and ensures consistent month-over-month revenue growth.
+If You're Someone Who...
+Knows how the Upwork algorithm works
+Understands profile optimization, keyword ranking, and visibility strategies
+Can build and scale multiple profiles
+Has handled large accounts with $500K+ earnings
+Knows how to turn proposals into replies → calls → signed deals
+Can lead a team of bidders, train them, and maintain performance discipline
+Loves systems, metrics, experiments, and continuous improvement
+Wants to become a core part of our leadership team
+Is a hustler, closer, strategist, and relentless learner
+Then you are exactly who we want.
+What You'll Do
+1. Daily Operations & Team Leadership
+Lead daily review calls with bidders
+Assign jobs, review proposals & ensure quality
+Track connects usage and optimize cost
+Ensure all invites & messages are handled promptly
+Monitor KPIs:
+Proposals Sent
+Reply Rate
+Seen Rate
+Conversion Rate
+Ensure contracts close with 5-star ratings
+2. Strategic Growth & Profile Optimization
+Maintain and improve profile ranking & keyword optimization
+Conduct weekly metrics analysis and suggest improvements
+Manage & scale multiple Upwork profiles (Pakistani + US)
+Build and maintain the Upwork Hub (SOPs, templates, case studies)
+Diversify service categories and run growth experiments
+3. Hands-On Bidding
+Own one premium Upwork profile
+Write high-converting proposals
+Take qualification calls when needed
+Close high-ticket Shopify clients
+Work directly with the founder on growth strategy
+4. Monthly & Quarterly Responsibilities
+Review tracking sheets daily
+Submit weekly performance summaries
+Prepare monthly commission calculations
+Identify recurring issues, trends & opportunities
+Lead monthly strategy reviews backed by data
+5. System Building & Team Development
+Train bidders on writing, communication, and strategy
+Conduct weekly proposal quality audits
+Build continuous improvement frameworks
+Maintain a culture of accountability and measurable results
+Who We're Looking For
+✅ Upwork growth hacker & strategist
+✅ Someone who understands Upwork algorithm + ranking
+✅ Experience handling large accounts (500K+ earnings)
+✅ Able to manage both Pakistani & US, Europe Upwork profiles
+✅ Sales-focused, data-driven, and hungry to win
+✅ Strong leadership & communication skills
+✅ Obsessed with testing, analyzing, improving
+Who We're NOT Looking For
+❌ Spammers sending 20+ random proposals
+❌ Someone treating this as a side hustle
+❌ Someone who avoids learning or experimenting
+❌ Someone who doesn't track or care about metrics
+Compensation:
+Base Salary + High Commissions
+Realistic earning potential: 120,000+ PKR/month
+Performance bonuses
+Growth path → Sales & Business Development Leadership
+How to Apply
+If you're the Upwork strategist we're looking for, apply here:
+https://forms.gle/NUgqXMEi6LnKbfJw6
+📌 Applications without the form will not be considered.
+
+
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","Business Square, sales, data, less"
+Business,2026-07-20,On_site,Associate,"Junior Business Development ExecutiveLahore, Pakistan",CODIXSYSTEMS,"Lahore, Punjab, Pakistan",[https://pk.linkedin.com/jobs/view/junior-business-development-executivelahore-pakistan-at-codixsystems-4442492982](https://pk.linkedin.com/jobs/view/junior-business-development-executivelahore-pakistan-at-codixsystems-4442492982),"Careers
+Junior Business Development Executive
+CODIXSYSTEMS
+ is a registered software development and digital marketing company operating in the USA, Canada, and Pakistan. We specialize in delivering cutting-edge technology solutions and innovative marketing strategies. As part of our rapid global growth, we are looking for a proactive and driven Junior Business Development Executive to join our expanding team.
+Job Summary
+As a Junior Business Development Executive, you will support the business development team in generating leads, managing client communications, and identifying new market opportunities. This role offers significant learning and career growth potential for candidates passionate about technology and client engagement.
+Responsibilities
+Identify and research potential business opportunities and market segments.
+Support senior team members in lead generation and sales pipeline development.
+Assist in client outreach via emails, calls, and social media platforms (e.g., LinkedIn).
+Maintain and update CRM tools with client and lead data.
+Coordinate meetings and follow-ups with prospective clients.
+Contribute to the preparation of proposals, presentations, and business plans.
+Monitor trends in the software and digital marketing industry to support growth initiatives.
+Requirements
+Bachelor’s degree in Business, Marketing, or a related field.
+Minimum of 1 year of experience in business development, sales, or a related field.
+Excellent communication, negotiation, and interpersonal skills.
+Familiarity with CRMs, lead generation tools, and basic sales processes.
+Interest in technology, digital services, and global business trends.e
+Ability to multitask, manage time effectively, and meet deadlines.
+Outbound, Inbound, Proposal wrting experts
+Must Have
+1+ years of business development experience
+Strong negotiation and sales skills
+Proven track record in closing deals and establishing client relationships
+Perks And Benefits
+Competitive base salary plus commission
+Annual Increments
+Performance Bonuses
+Travel opportunities
+Professional development resources
+Learning opportunities
+Work from home flexibility in case of approval
+Job Category: 
+Business Development
+Job Type: 
+Full Time - Onsite
+Job Location: 
+Lahore, Pakistan
+Job Location: 
+Minimum 1 Year
+Open Vacancies: 
+2
+Apply for this position
+Apply for this position
+Full Name *
+Email *
+Phone *
+Your Resume* (Allowed Type(s): .pdf, .doc, .docx)
+Upload file
+Cover Letter *
+By using this form you agree with the storage and handling of your data by this website.*
+        
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","Business Development, Business, Marketing, business development, sales"
+Data Analyst,2026-07-20,On_site,Associate,Développeur Power BI - Secteur marché de capitaux,CGI,"Montreal, Quebec, Canada",[https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-power-bi-secteur-march%C3%A9-de-capitaux-at-cgi-4424968203](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-power-bi-secteur-march%C3%A9-de-capitaux-at-cgi-4424968203),"Looking for an exciting challenge at the heart of modern analytics
+CGI is seeking an experienced Power BI Developer to build scalable BI solutions, optimize data models, and contribute to high‑impact international projects. If you enjoy combining technical expertise, strong UX design principles, and agile collaboration, this hybrid role based in Montréal is the perfect fit for you.
+Work arrangement: Hybrid, 4 days/week in the office
+Location: Montreal
+Your future duties and responsibilities
+Main Responsibilities
+ Design and develop reliable and highly scalable dashboarding and reporting solutions within a cloud architecture (Snowflake, Power BI).
+ Bring expertise, knowledge and guidance to team members relating to Analytics technology, tools, and best practices.
+ Provide expertise, support and POC's (Proof of concept) with various Analytics infrastructure components.
+ Provide expertise in the development and maintenance of analytics reports and dashboards (Power BI).
+Required Qualifications To Be Successful In This Role
+What we are looking for:
+ Academic Background: Hold a bachelor's or master's degree in computer science, software engineering, statistics or mathematics and/or the equivalent combination of education and experience in a technical role.
+ Seniority: Intermediate or Senior, 4-7 year of visualization/dashboarding designing experience.
+ Proven track record of operationalizing successful end-to-end solutions.
+ Experience with SQL/NoSQL and data analysis.
+ Experience with Power BI.
+ Experience in CI/CD/CT pipeline implementation using Azure DevOps.
+ Experience with Identity & Access Management services such as Azure AD / Entra ID.
+ Experience with version control tools such as Git.
+ Experience in creating and evolving data models and communicating optimal data architecture requirements.
+ Experience in writing and optimizing DAX code and Power Query scripts.
+ Experience in applying UI/UX design principles and using design solutions or frameworks.
+ Experience in an agile delivery team, preferably with Scrum.
+ Competencies (Knowledge, Skills & Behaviors)
+ Knowledge of web frameworks (React/Angular)
+ Knowledge of Python is an asset. Knowledge of Tableau
+ Knowledge of public markets, private markets, investment operations, investment accounting and investment analytics
+Work arrangement: Hybrid, 4 days/week in the office
+Location: Montreal
+The ability to communicate in English, both orally and in writing, is a requirement as the person in this position will be required to collaborate regularly with colleagues and partners in the United States and Europe.
+CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $ 70 000 And $ 135 000. This role is an existing vacancy.
+Together, as owners, let’s turn meaningful insights into action.
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+At CGI, we value the strength that diversity brings and are committed to fostering a workplace where everyone belongs. We collaborate with our clients to build more inclusive communities and empower all CGI partners to thrive. As an equal-opportunity employer, being able to perform your best during the recruitment process is important to us. If you require an accommodation, please inform your recruiter.
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.
+To learn more about accessibility at CGI, contact us via email. Please note that this email is strictly for accessibility requests and cannot be used for application status inquiries.
+Come join our team—one of the largest IT and business consulting services firms in the world.
+Développeur Power BI - Secteur marché de capitaux
+Job Description
+Envie d’un défi stimulant au cœur de l’analytique moderne?
+CGI recherche un Développeur Power BI chevronné pour bâtir des solutions BI évolutives, optimiser des modèles de données et contribuer à des projets d’envergure internationale. Si vous aimez allier expertise technique, design UX et collaboration agile, ce poste hybride à Montréal est fait pour vous.
+Mode de travail: Hybride, 4 jours/semaine en présentiel
+Lieu : Montréal
+Your future duties and responsibilities
+Responsabilités principales
+ Concevoir et développer des solutions fiables et hautement évolutives de tableau de bord et de rapports dans une architecture infonuagique (Snowflake, Power BI).
+ Apportez expertise, connaissances et conseils aux membres de l'équipe en lien avec la technologie analytique, les outils et les meilleures pratiques.
+ Fournir expertise, soutien et POC (preuve de concept) avec divers composants d'infrastructure analytique.
+ Fournir une expertise dans le développement et la maintenance de rapports analytiques et de tableaux de bord (Power BI).
+Required Qualifications To Be Successful In This Role
+Votre profil pour le poste :
+ Un baccalauréat ou une maîtrise Holda en informatique, génie logiciel, statistiques ou mathématiques et/ou une combinaison équivalente de formation et d'expérience dans un rôle technique.
+ Ancienneté : Intermédiaire Senior - 4 à 7 ans d'expérience en visualisation/conception de tableaux de bord.
+ Un bilan éprouvé dans l'opérationnalisation de solutions réussies de bout en bout.
+ Expérience avec SQL/NoSQL et analyse de données.
+ Expérience avec Power BI.
+ Expérience en implémentation de pipeline CI/CD/CT utilisant Azure DevOps.
+ Expérience avec des services de gestion d'identité et d'accès comme Azure AD / Entra ID.
+ Expérience avec des outils de contrôle de version comme Git.
+ Expérience dans la création et l'évolution de modèles de données et la communication des exigences optimales en architecture de données.
+ Expérience dans l'écriture et l'optimisation de code DAX et de scripts Power Query.
+ Expérience dans l'application des principes de design UI/UX et l'utilisation de solutions ou de cadres de conception.
+ Expérience dans une équipe de livraison agile, de préférence avec Scrum.
+ Compétences (connaissances, habiletés et comportements)
+ Connaissance des frameworks web (React/Angular)
+ Connaissance de Python
+ Connaissance de Tableau
+ Connaissance des marchés publics, des marchés privés, des opérations d'investissement, de la comptabilité d'investissement et de l'analyse d'investissement
+La capacité de communiquer en anglais, tant à l'oral qu'à l'écrit, est une exigence car la personne occupant ce poste devra collaborer régulièrement avec des collègues et des partenaires aux États-Unis et en Europe.
+Mode de travail: Hybride, 4 jours/semaine en présentiel
+Lieu : Montréal
+CGI offre une estimation raisonnable de la fourchette salariale pour ce poste. Le calcul de cette fourchette dépend de divers facteurs, notamment le niveau de compétence, le marché géographique, l’expérience, la formation ainsi que les licences et certifications professionnelles. Les décisions en matière de rémunération dépendent des particularités de chaque cas. Une estimation raisonnable de cette fourchette salariale se situe entre 70 000$ et 135 000$. Ce poste est vacant.
+Ensemble, en tant que propriétaires, mettons notre savoir-faire à l’œuvre.
+La vie chez CGI est ancrée dans l’actionnariat, le travail d’équipe, le respect et un sentiment d’appartenance. Chez nous, vous pourrez exploiter votre plein potentiel parce que…
+Nous vous invitons à devenir propriétaire dès le jour 1 alors que nous travaillons ensemble à faire de notre rêve une réalité. C’est pourquoi nous nous désignons comme associés de CGI, plutôt que comme employés. Nous tirons profit des retombées de notre succès collectif et contribuons activement à l’orientation et à la stratégie de notre entreprise.
+Votre travail crée de la valeur. Vous élaborerez des solutions novatrices et développerez des relations durables avec vos collègues et clients, tout en ayant accès à des capacités mondiales pour concrétiser vos idées, saisir de nouvelles opportunités, et bénéficier d’une expertise sectorielle et technologique de pointe.
+Vous ferez évoluer votre carrière en vous joignant à une entreprise bâtie pour croître et durer. Vous serez soutenus par des leaders qui ont votre santé et bien-être à cœur et qui vous permettront de saisir des occasions afin de parfaire vos compétences et élargir les horizons.
+Chez CGI, nous valorisons la richesse que la diversité apporte et nous nous engageons à favoriser un environnement de travail où chacun s’épanouit. Nous collaborons avec nos clients pour bâtir des communautés plus inclusives et permettre à tous les associés de CGI de réussir. En tant qu’employeur prônant l’égalité des chances, il est important pour nous que vous puissiez donner le meilleur de vous-même durant le processus de recrutement. Si vous avez besoin d’un accommodement particulier, veuillez en informer votre recruteur.
+Ce même engagement envers l’équité s’étend à notre utilisation des technologies. Afin de soutenir notre équipe de recrutement, des outils d’IA peuvent être utilisés pour aider à l’évaluation des candidatures, sans jamais remplacer le jugement humain. Toutes les décisions d’embauche demeurent entièrement entre les mains de nos professionnels du recrutement.
+Pour en savoir plus sur l'accessibilité chez CGI, contactez-nous par courriel. Veuillez noter que ce courriel est strictement réservé aux demandes d'accessibilité et ne peut être utilisé pour vérifier l'état d’une candidature.
+Joignez-vous à nous, l’une des plus importantes entreprises de conseil en technologie de l’information (TI) et en management au monde.
+
+
+
+
+
+
+
+        
+            Show more
+          
+
+          
+
+
+
+
+
+
+
+        
+            Show less","Power BI, computer science, software engineering, SQL, data analysis"
